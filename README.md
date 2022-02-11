@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshi Jain
-- 👀 I’m interested in Frontend Development of Web Applications.
+- 👀 I’m interested in Developing Web Applications.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me ...
